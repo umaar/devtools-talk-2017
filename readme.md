@@ -1,7 +1,7 @@
 
 # DevTools Talk 2017
 
-* [Watch the talk on YouTube](https://vimeo.com/235431630)
+* [Watch the talk on Vimeo](https://vimeo.com/235431630)
 * [View the slides](https://umaar.github.io/devtools-talk-2017/)
 
 ### Related DevTools material
